@@ -1,2 +1,2 @@
-# fsd_201b302
+# fsd
 201b302 vedansh chaturvedi
